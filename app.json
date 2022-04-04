@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "React_Native_App",
-    "slug": "React_Native_App",
+    "name": "NFT-SHOW-CASE",
+    "slug": "nft-show-case",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
